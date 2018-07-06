@@ -1,12 +1,12 @@
 /* This is a CSS file comment! */
-/* CSS Syntax 
+/* CSS Syntax
 selector {
   property: value;
-  property: value;  
+  property: value;
 }
 */
 /* Type Selector */
 
 p {
-  font-size: 16px;
+  font-size: 16px; /* optional formats: 16px, ?pt, 100%, 1em */
 }
