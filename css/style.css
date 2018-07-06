@@ -45,3 +45,10 @@ figcaption {
 #logo h2 {
   font-family: "Elsie Swash Caps", cursive;
 }
+
+/* Psuedo Class Selectors: augment an element based on relationship/event-state */
+
+#details a:link, #details a:visited {  /* both descendant and psuedo selectors and compound selector */
+  font: black;
+  text-decoration: none;
+}
