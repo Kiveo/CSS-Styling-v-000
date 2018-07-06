@@ -33,5 +33,5 @@ figcaption {
 }
 /* Id Selectors: applied once to a unique element per page: #id_name */
 #logo {
-
+  background-color: #0000ff;
 }
