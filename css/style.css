@@ -31,3 +31,7 @@ figcaption {
   color: white;
   text-shadow: 0 2px 3px #000;
 }
+/* Id Selectors: applied once to a unique element per page: #id_name */
+#id {
+
+}
